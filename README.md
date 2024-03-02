@@ -1,5 +1,3 @@
-﻿# lasprilla-f4df27
-
  # Notes App
 
 This is a small note-taking application where users can create, archive/activate, delete, and edit notes.
